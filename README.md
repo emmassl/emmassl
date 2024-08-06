@@ -1,0 +1,4 @@
+- Aloha! I’m Emma @emmassl, and I'm a current student at Yale University studying Computing and the Arts!
+- 👀 I’m interested in how the intersections between design and technology can better serve indigenous and underrepresented communities.
+- 🌱 I’m currently learning Database Systems and LLM!
+- 📫 You can reach me on my LinkedIn: https://www.linkedin.com/in/emma-slagle/
